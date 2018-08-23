@@ -29,7 +29,7 @@ public class LoginController {
 	)
 	public String method(String username, String password, Model model) {
 		Locale locale = LocaleContextHolder.getLocale();
-		System.out.println("ha");
+		System.out.println("hehe");
 
 //接收資料
 //轉換資料
