@@ -10,7 +10,7 @@ import org.springframework.stereotype.Repository;
 import model.ProductBean;
 import model.ProductDAO;
 
-@Repository
+@Repository 
 public class ProductDAOHibernate implements ProductDAO {
 	@Autowired
 	private SessionFactory sessionFactory;
