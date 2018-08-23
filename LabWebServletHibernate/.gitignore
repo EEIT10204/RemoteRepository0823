@@ -1,5 +1,9 @@
 /.settings/
 /build/
+/target/
 /.project
 /.classpath
-/target/
+/.class
+/.war
+/.springBeans
+
