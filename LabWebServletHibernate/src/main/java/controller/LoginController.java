@@ -29,7 +29,9 @@ public class LoginController {
 	)
 	public String method(String username, String password, Model model) {
 		Locale locale = LocaleContextHolder.getLocale();
-		System.out.println("iiii");
+
+
+branch 'master' of https://github.com/EEIT10204/RemoteRepository0823
 
 //接收資料
 //轉換資料
