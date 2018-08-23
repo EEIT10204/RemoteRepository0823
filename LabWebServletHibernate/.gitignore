@@ -1,4 +1,6 @@
 /.settings/
 /.project
 /.classpath
+/.springBeans
+/target/
 /src/main/webapp/META-INF/context.xml
