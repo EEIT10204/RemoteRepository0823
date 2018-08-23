@@ -6,15 +6,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-<title>Home FFFFK</title>
-
+<title>Home</title>
+</head>
 <body>
 
 <h3>Welcome ${user.email}</h3>
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
-<h3><a href="<c:url value="/pages/product.jsp" />">Product</a></h3> <!-- 從頭錯到尾的錯字已更正 -->
+
 </body>
-</head>
 </html>
